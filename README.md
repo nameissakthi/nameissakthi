@@ -12,8 +12,6 @@ I'm a passionate developer with a strong foundation in both **frontend** and **b
 
 - 🌐 **Web Development Expert:** Skilled in creating responsive, user-friendly interfaces with technologies like **React.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, and **PHP**.
 - 🌍 **Backend Mastery:** Experienced with **Node.js** and **MongoDB**, making me adept at building scalable full-stack applications.
-- 🤖 **Machine Learning Enthusiast:** Hands-on with various ML algorithms (Random Forest, Decision Tree, Naive Bayes, and Logistic Regression), focusing on applications in medical diagnosis, agriculture, and more.
-- 🎨 **3D and Simulation:** Leveraged **Blender** to bring the "An Aquatic Chemosynthetic World" project to life, merging creativity with scientific concepts.
 
 ---
 
