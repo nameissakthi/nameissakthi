@@ -31,7 +31,7 @@ I'm a passionate developer with a strong foundation in both **frontend** and **b
 ## 🧰 Technical Skills
 
 - **Languages:**
-#  ![React JS](https://img.shields.io/badge/Reactjs-grey?style=for-the-badge&logo=react&logoColor=skyblue)
+  #  ![React JS](https://img.shields.io/badge/Reactjs-grey?style=for-the-badge&logo=react&logoColor=skyblue)
 - **Frameworks & Libraries:** React.js, Node.js
 - **Tools:** MongoDB, Stripe, Git
 
