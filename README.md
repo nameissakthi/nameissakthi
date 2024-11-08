@@ -44,7 +44,6 @@ I'm always open to collaborating on innovative projects or discussing new ideas 
 
 **GitHub:** [@nameissakthi](https://github.com/nameissakthi)  
 **LinkedIn:** [Sakthivel](https://www.linkedin.com/in/sakthivel)
-**Gmail:** [Sakthiveldofficial](sakthiveldofficial@gmail.com)
 
 
 <!--
