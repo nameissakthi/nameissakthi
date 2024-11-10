@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Sakthivel!
 
-
-
-## 🚀 About Me
-
 I'm a passionate developer with a strong foundation in both frontend and backend development, specializing in the MERN stack. I thrive on creating solutions that blend creativity and functionality to address real-world challenges. Skilled in building responsive, user-friendly interfaces with React.js, JavaScript, TypeScript, HTML, and CSS, I bring expertise in web development to every project. Additionally, my experience with Node.js and MongoDB allows me to develop scalable full-stack applications that prioritize performance and user experience.
 
 ---
