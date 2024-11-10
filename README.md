@@ -1,37 +1,19 @@
 # 👋 Hello, I'm Sakthivel!
 
-**GitHub:** [@nameissakthi](https://github.com/nameissakthi) | **LinkedIn:** [Sakthivel](https://www.linkedin.com/in/sakthiveldhanushkodi) 
-
----
-
-I'm a passionate developer with a strong foundation in both **frontend** and **backend** development, specializing in the **MERN stack**. I love creating solutions that blend creativity and functionality to solve real-world problems.
-
----
 
 ## 🚀 About Me
 
-- 🌐 **Web Development Expert:** Skilled in creating responsive, user-friendly interfaces with technologies like **React.js**, **JavaScript**, **TypeScript**, **HTML**, **CSS**, and **PHP**.
-- 🌍 **Backend Mastery:** Experienced with **Node.js** and **MongoDB**, making me adept at building scalable full-stack applications.
+I'm a passionate developer with a strong foundation in both frontend and backend development, specializing in the MERN stack. I thrive on creating solutions that blend creativity and functionality to address real-world challenges. Skilled in building responsive, user-friendly interfaces with React.js, JavaScript, TypeScript, HTML, and CSS, I bring expertise in web development to every project. Additionally, my experience with Node.js and MongoDB allows me to develop scalable full-stack applications that prioritize performance and user experience.
 
 ---
 
-## 🛠️ Projects
+## 💻 Programming Language
 
-### 1. [**FashionNow**](https://github.com/nameissakthi/FashionNow)
-   - An e-commerce platform for fashion items, built with the **MERN stack**, featuring real-time updates and user authentication.
-
-### 2. [**starHR Consultancys**](https://github.com/nameissakthi/starHR)
-   - StarHR Consultancys Website is Company for Import & Export and Oversea Manpower Agency developed in **MERN stack**.
-
-### 3. [**Portfolio Website**](https://github.com/nameissakthi/Sakthivel-Portfolio)
-   - A responsive ReactJS portfolio website showcasing My skills, projects, and professional background. Built in ReactJS with HTML, SCSS, and JavaScript, it is deployed on Vercel for easy access.
-
----
+   # ![JAVA](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=black) ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🧰 Technical Skills
 
-- **Languages:**
-  # ![JAVA](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=black) ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JAVASCRIPT](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=JavaScript&logoColor=yellow)
+  # ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-CC6699?style=for-the-badge&logo=mysql&logoColor=skyblue) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![NODE JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -39,8 +21,9 @@ I'm a passionate developer with a strong foundation in both **frontend** and **b
 
 I'm always open to collaborating on innovative projects or discussing new ideas in tech. Feel free to reach out through my LinkedIn or explore my repositories to see my work!
 
-**GitHub:** [@nameissakthi](https://github.com/nameissakthi)  
-**LinkedIn:** [Sakthivel](https://www.linkedin.com/in/sakthivel)
+**Gmail:** [Mail](sakthiveldofficial@gmail.com)
+**LinkedIn:** [Sakthivel Dhanushkodi](https://www.linkedin.com/in/sakthivel)
+**Portfolio:** [Sakthivel](https://sakthivel-d.vercel.app/)
 
 
 <!--
