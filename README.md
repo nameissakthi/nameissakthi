@@ -13,7 +13,11 @@ I'm a passionate developer with a strong foundation in both frontend and backend
 
 ## 🧰 Technical Skills
 
-  # ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-CC6699?style=for-the-badge&logo=mysql&logoColor=skyblue) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![NODE JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  # ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-CC6699?style=for-the-badge&logo=mysql&logoColor=skyblue) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![NODE JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![EXPRESS JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![TAILWIND CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 🛠️ Tools Used
+
+   # ![GIT](https://img.shields.io/badge/git-00599C?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white) ![VISUAL STUDIO CODE](https://img.shields.io/badge/visual%20studio%20code-blue?style=for-the-badge&logo=visual&logoColor=white) ![PRETTIER](https://img.shields.io/badge/prettier-blue?style=for-the-badge&logo=prettier&logoColor=white) ![POSTMAN](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
