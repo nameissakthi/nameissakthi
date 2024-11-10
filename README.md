@@ -25,8 +25,10 @@ I'm a passionate developer with a strong foundation in both frontend and backend
 
 I'm always open to collaborating on innovative projects or discussing new ideas in tech. Feel free to reach out through my LinkedIn or explore my repositories to see my work!
 
-**Gmail:** [Mail](sakthiveldofficial@gmail.com)
-**LinkedIn:** [Sakthivel Dhanushkodi](https://www.linkedin.com/in/sakthivel)
+**Mail:** sakthiveldofficial@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/sakthiveldhanushkodi
+
 **Portfolio:** [Sakthivel](https://sakthivel-d.vercel.app/)
 
 
