@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Sakthivel!
 
 
+
 ## 🚀 About Me
 
 I'm a passionate developer with a strong foundation in both frontend and backend development, specializing in the MERN stack. I thrive on creating solutions that blend creativity and functionality to address real-world challenges. Skilled in building responsive, user-friendly interfaces with React.js, JavaScript, TypeScript, HTML, and CSS, I bring expertise in web development to every project. Additionally, my experience with Node.js and MongoDB allows me to develop scalable full-stack applications that prioritize performance and user experience.
@@ -31,6 +32,7 @@ I'm always open to collaborating on innovative projects or discussing new ideas 
 
 **Portfolio:** [Sakthivel](https://sakthivel-d.vercel.app/)
 
+https://camo.githubusercontent.com/b4b4d446225ac9634c2666890a033addec0a5a4712446444e19a25d43828f0bc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d657a696f61756469746f72652d74656368266c6162656c3d5649455753
 
 <!--
 **nameissakthi/nameissakthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
