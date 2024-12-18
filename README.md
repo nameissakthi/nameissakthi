@@ -28,6 +28,7 @@ I'm always open to collaborating on innovative projects or discussing new ideas 
 
 **Portfolio:** [Sakthivel](https://sakthivel-d.vercel.app/)
 
+[![](https://visitcount.itsvg.in/api?id=nameisakthi&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **nameissakthi/nameissakthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
