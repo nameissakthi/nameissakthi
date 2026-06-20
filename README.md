@@ -31,4 +31,4 @@ I'm always open to collaborating on innovative projects or discussing new ideas 
 
 **LinkedIn:** [linkedin.com/in/sakthiveldhanushkodi](https://www.linkedin.com/in/sakthiveldhanushkodi)
 
-**Portfolio:** [sakthivel.me](https://www.sakthivel.me/)
+**Portfolio:** [sakthivel.me](https://sakthivel-d.vercel.app/)
